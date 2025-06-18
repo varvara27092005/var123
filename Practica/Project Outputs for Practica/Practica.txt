@@ -1,0 +1,6 @@
+Description	Designator	Footprint	LibRef	Quantity	Comment
+
+"Capacitor"	"C1, C2"	"RAD-0.3"	"Cap"	"2"	"Cap"
+"Header, 2-Pin"	"P1"	"HDR1X2"	"Header 2"	"1"	"Header 2"
+"NPN General Purpose Amplifier"	"Q1, Q2"	"TO-92A"	"2N3904"	"2"	"2N3904"
+""	"R1, R2, R3, R4"	"Res 0805"	"Res"	"4"	"Res"
